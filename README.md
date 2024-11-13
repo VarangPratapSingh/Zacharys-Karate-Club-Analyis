@@ -62,5 +62,5 @@ Exploring Zachary's Karate Club dataset to analyze social dynamics, identify inf
 - Identifying influential nodes amplifies communication strategies and enhances information dissemination.
 - Clustering indicates tightly-knit communities, facilitating effective information sharing among members.
 
+# Thank You
 ---
-#Thank You
